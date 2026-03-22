@@ -1,4 +1,3 @@
-# dream-merge-policy
 mkdir C:\dream-merge-policy
 Copy-Item "C:\Users\yusuf\OneDrive\Masaüstü\eşleştirme oyunu\deram merge\privacy.html" "C:\dream-merge-policy\index.html"
 Copy-Item "C:\Users\yusuf\OneDrive\Masaüstü\eşleştirme oyunu\deram merge\PRIVACY_REPO_README.md" "C:\dream-merge-policy\README.md"
